@@ -9,7 +9,7 @@ Input a stock and bring up websites on information about that stock
 Python3: tkinter GUI, opening websites, user menu with tick boxes
 
 ### **Description:**  
-Python project used to assist in looking up stock fundamentals.  Input Ticker (ex: aapl) and select which sites to go to, and my program will bring you  
+Python project used to assist in looking up stock fundamentals.  Input Ticker (ex: aapl) and select which sites to go to, and my program will bring you 
 to those web sites. This can help someone quickly open multiple sites and searching for that ticker, instead of manually doing it site by site.  
 It will make stock research go faster.  
 
