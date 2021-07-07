@@ -20,7 +20,7 @@ Website Options: 'Seeking Alpha', 'Open Insider', 'SEC', 'Whale Wonder', 'Finra'
 Hit Select to go to website
 Hit Quit to exit application
 
-**Possible Future Features: **
+**Possible Future Features:**
 Create web version.
 Let user create account and save new websites to visit.
 Look up multiple tickers at once.
