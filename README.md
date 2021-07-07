@@ -1,6 +1,6 @@
 # stockdata
 
-#### **Creator:** pdsatter
+### **Creator:** pdsatter
 **Language:** Python
 **Last edit:** 02/20/2021
 **Purpose:**  Input a stock and bring up websites on information about that stock
