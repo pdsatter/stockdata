@@ -3,8 +3,10 @@
 ### **Creator:** pdsatter
 ### **Language:** Python
 ### **Last edit:** 02/20/2021
-### **Purpose:**  Input a stock and bring up websites on information about that stock
-### **Important skills:** Python3: tkinter GUI, opening websites, user menu with tick boxes
+### **Purpose:**  
+Input a stock and bring up websites on information about that stock
+### **Important skills:**  
+Python3: tkinter GUI, opening websites, user menu with tick boxes
 
 ### **Description:**  
 Python project used to assist in looking up stock fundamentals.  Input Ticker (ex: aapl) and select which sites to go to, and my program will bring you
